@@ -1,0 +1,5 @@
+calculation rsmdiago
+result_print 1 #something
+timer_print 1 #something
+matrix_type file
+matrix_1 ../diago/case_1/mat_1.txt # relative path to where you execute 'main'

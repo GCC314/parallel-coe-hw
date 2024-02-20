@@ -1,0 +1,6 @@
+calculation Max    # calc min element
+matrix_type random  # generate random element!
+nrows 6
+NCOLS 5
+matrix_Print 0      # Log to stdout
+another_attribute ? # For test

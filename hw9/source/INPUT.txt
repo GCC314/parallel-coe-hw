@@ -1,0 +1,11 @@
+calculation matadd_mpi
+output_to_file output/result.txt
+print_mpi_log 1
+timer_print 1
+matrix_type file
+matrix_1 ../matadd/case_3/mat_A.txt
+matrix_2 ../matadd/case_3/mat_B.txt
+
+alpha 1
+beta 0.3
+

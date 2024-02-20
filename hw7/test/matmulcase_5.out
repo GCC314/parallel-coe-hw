@@ -1,0 +1,7 @@
+Matmul results are consistent.
+
+         CLASS_NAME|               NAME|     TIME(Sec)|    CALLS|           AVG|       PERF%
+                                   total         13.621                                     
+            Mat_Demo         blas_matmul         1.2035         1         1.2035         8.8%
+            Mat_Demo          operator *         12.416         1         12.416        91.2%
+--------------------------------------------------------------------------------------------

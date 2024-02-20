@@ -1,0 +1,5 @@
+result_print 1
+timer_print 1
+matrix_type file
+matrix_1 ../mat-32-16.txt
+print_mpi_log 1
